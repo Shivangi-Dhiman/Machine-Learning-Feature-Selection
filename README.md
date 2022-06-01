@@ -1,0 +1,2 @@
+# Machine-Learning-Feature-Selection
+This project focuses on implementation of three feature selection algorithms such as (Unsupervised Discriminative Feature Selection [UDFS], Local Learning-based Clustering Feature Selection [LLCFS], Correlation-based Feature Selection [CFS]) along with 3 classifiers (Random Forest (RF), Multilayer Perceptron (MLP), k-Nearest Neighbour (k-NN)) to obtain the best possible accuracy and f1 score for given dataset which is further cross-validated using k-fold cross validation technique.
